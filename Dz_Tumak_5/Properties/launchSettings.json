@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Dz_Tumak_5": {
+      "commandName": "Project",
+      "commandLineArgs": "Tumak_Upr_6_1.txt"
+    }
+  }
+}
